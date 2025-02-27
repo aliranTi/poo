@@ -1,6 +1,6 @@
-package unidade2.questoes;
+package unidade1.questoes;
 
-import unidade2.classes.NumComplexo;
+import unidade1.classes.NumComplexo;
 
 public class Q9 {
     public static void main(String[] args) {

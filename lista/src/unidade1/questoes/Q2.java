@@ -1,6 +1,6 @@
-package unidade2.questoes;
+package unidade1.questoes;
 
-import unidade2.classes.Fatura;
+import unidade1.classes.Fatura;
 
 public class Q2 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package unidade2.questoes;
+package unidade1.questoes;
 
-import unidade2.classes.Time;
+import unidade1.classes.Time;
 
 public class Q1 {
     public static void main(String[] args) {

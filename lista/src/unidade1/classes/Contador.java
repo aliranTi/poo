@@ -1,4 +1,4 @@
-package unidade2.classes;
+package unidade1.classes;
 
 public class Contador {
     private int valor;

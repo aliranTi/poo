@@ -1,4 +1,4 @@
-package unidade2.classes;
+package unidade1.classes;
 
 // Crie uma classe denominada Elevador para armazenar as informações de um elevador
 // dentro de um prédio. A classe deve armazenar o número do andar atual, o total de

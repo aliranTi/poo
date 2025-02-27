@@ -1,6 +1,6 @@
-package unidade2.questoes; 
+package unidade1.questoes; 
 
-import unidade2.classes.Comparador;
+import unidade1.classes.Comparador;
 
 public class Q10 {
     public static void main(String[] args) {

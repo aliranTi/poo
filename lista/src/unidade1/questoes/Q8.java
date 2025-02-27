@@ -1,6 +1,6 @@
-package unidade2.questoes;
+package unidade1.questoes;
 
-import unidade2.classes.Lampada;
+import unidade1.classes.Lampada;
 
 public class Q8 {
     public static void main(String[] args) {

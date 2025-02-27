@@ -1,4 +1,4 @@
-package unidade2.classes;
+package unidade1.classes;
 
 /*Crie uma classe chamada F atura para que uma loja de suprimentos de informática a
 utilize para representar uma fatura de um item vendido. Uma Fatura deve incluir as seguintes informações sobre o item vendido: o número de identificação, a descrição, a

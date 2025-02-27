@@ -1,4 +1,4 @@
-package unidade2.classes;
+package unidade1.classes;
 
 // Escreva uma classe para representar um time de um esporte qualquer em um campeonato desse esporte. 
 // Que atributos devem ser representados nessa classe? Quais métodos ela deve conter? 

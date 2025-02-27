@@ -1,6 +1,6 @@
-package unidade2.questoes;
+package unidade1.questoes;
 
-import unidade2.classes.RegistroAcademico;
+import unidade1.classes.RegistroAcademico;
 
 public class Q11 {
     public static void main(String[] args) {

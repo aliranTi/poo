@@ -1,4 +1,4 @@
-package unidade2.classes;
+package unidade1.classes;
 
 // Escreva uma classe Lampada que possui o atributo estadoDaLampada (ligado ou desligado) e
 // os métodos acende, apaga e mostraEstado (ex.: A lampada esta acesa). Inclua

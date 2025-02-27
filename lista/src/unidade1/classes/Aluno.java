@@ -1,4 +1,4 @@
-package unidade2.classes;
+package unidade1.classes;
 
 // Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina da
 // Ufersa. Cada objeto dessa classe deve guardar os seguintes dados do aluno: matrícula,
