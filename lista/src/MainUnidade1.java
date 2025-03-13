@@ -1,5 +1,5 @@
 import unidade1.questoes.*;
-public class Main {
+public class MainUnidade1 {
     public static void main(String[] args) {
         Q12.main(args);
     }
